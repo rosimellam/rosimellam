@@ -1,0 +1,4 @@
+NAME: ROSI MELLAM
+COURSE: BCA
+GitHub is a proprietary developer platform that provides cloud-based hosting for Git repositories and facilitates collaborative software development. It was acquired by Microsoft in 2018.
+
